@@ -22,7 +22,7 @@ func VerifyTokenUsagePlan(huggingfaceToken *string) error {
 	if resp.StatusCode == 200 {
 		return nil
 	}
-	return errors.New("token invalide")
+	return errors.New("token invalide lala")
 
 }
 
