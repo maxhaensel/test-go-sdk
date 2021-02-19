@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	utils "github.com/huggingface-sdk/utils"
+	utils "github.com/maxhaensel/test-go-sdk/utils"
 )
 
 type input struct {

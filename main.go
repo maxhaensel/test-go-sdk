@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	sdk "github.com/huggingface-sdk/sdk"
+	sdk "github.com/maxhaensel/test-go-sdk"
 )
 
 func main() {
